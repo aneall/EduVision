@@ -38,7 +38,7 @@ Leveraging Extended Reality to Make Scientific Experiments Accessible.
 
 ## Shout-Outs
 - Thank you to Looking Glass mentors for help with troubleshooting our hologram camera settings!
-– Thank you to all our teammates (Ashley, Trishia, Elizabeth, and Josephine) for being awesome!
+- Thank you to all our teammates (Ashley, Trishia, Elizabeth, and Josephine) for being awesome!
 - Thank you to our Startup Hack coaches, judges, and additional mentors!
 
 ## Contact Information
