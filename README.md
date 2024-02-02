@@ -4,9 +4,9 @@ Leveraging Extended Reality to Make Scientific Experiments Accessible.
 ## Project Setup
 
 ### Software
-1. **Clone the Codeberg Repo** with CLI:
+1. **Clone the GitHub Repo** with CLI:
     1. Open the terminal → navigate to the root directory of your project with: `cd </path/to/repository>`
-    2. Run `git clone <Codeberg_repository_URL>`
+    2. Run `git clone <GitHub_repository_URL>`
 
 2. **Install Git LFS** with CLI:
     1. In the project (repository)'s root directory, run `git lfs install`
