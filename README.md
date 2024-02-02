@@ -36,6 +36,13 @@ Leveraging Extended Reality to Make Scientific Experiments Accessible.
    - Click play in the unity editor, and use the potentiometers to control.
 
 
-
 ## Shout-Outs
-Thank you to looking glass mentors for help with troubleshooting our hologram camera settings!
+- Thank you to Looking Glass mentors for help with troubleshooting our hologram camera settings!
+– Thank you to all our teammates (Ashley, Trishia, Elizabeth, and Josephine) for being awesome!
+- Thank you to our Startup Hack coaches, judges, and additional mentors!
+
+## Contact Information
+- [Ashley Neall](https://aneall.github.io/)
+- [Trishia Chemaly](https://tchemaly.github.io/)
+- [Elizabeth Childs](https://impact.stanford.edu/people/elizabeth-childs)
+- [Josephine Miko](https://www.linkedin.com/in/josephine-miko-b77397296/?originalSubdomain=ca)
